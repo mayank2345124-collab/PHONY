@@ -1,0 +1,6 @@
+{
+  "name": "PHONY - Engineered to Feel Alive",
+  "description": "High-end product launch page for PHONY flagship smartphone lineup featuring cinematic 3D motion, live interactive specs, battery calculator, and comparison engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
